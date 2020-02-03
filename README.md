@@ -6,7 +6,7 @@ This is a android project for Android Studio that allows you to create an androi
 
 If you want to create a local HTML5 android app
 
-1. uncomment line **29** in `MainActivity.java`
+1. Change line **29** in `MainActivity.java`
 
 	```java
 	mWebView.loadUrl("file:///android_asset/index.html");
